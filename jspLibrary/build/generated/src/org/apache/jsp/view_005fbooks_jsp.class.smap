@@ -1,0 +1,25 @@
+SMAP
+view_005fbooks_jsp.java
+JSP
+*S JSP
+*F
++ 0 view_books.jsp
+view_books.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+5,5:51
+5#1,12:55
+9#0,11:67
+19,6:78
+24,2:84
+26:86,3
+27:89
+28,5:90,3
+33:105
+34:106,3
+35,8:109
+5#2,5:116
+*E
